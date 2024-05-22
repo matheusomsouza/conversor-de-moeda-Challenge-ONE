@@ -5,8 +5,8 @@
 * [Status do Projeto](#status-do-projeto)
 * [Funcionalidades](#funcionalidades)
 * [Tecnologias Envolvidas](#tecnologias-envolvidas)
-* [Desenvolvedores](desenvolvedores)
-* [Conclusão](conclusão)
+* [Desenvolvedores](#desenvolvedores)
+* [Conclusão](#conclusão)
 
 # Descrição do Projeto
 O projeto Conversor de Moeda é um dos Challenges do programa ONE (Oracle Next Education). O programa ONE é um programa educacional realizado pela Oracle + Alura.
